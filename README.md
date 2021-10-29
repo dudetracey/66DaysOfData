@@ -10,3 +10,6 @@ Today I set up the Jupiter Notebooks and Anaconda. Feels like there are a millio
 
 # Day 3:
 I learned about virtual environments and how to use the Anaconda Terminal!
+
+# Day 4:
+A few minutes in the Python Crash Course
