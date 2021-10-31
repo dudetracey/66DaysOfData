@@ -72,3 +72,6 @@ def my_func(name='Default Name'):
  seq = [1,2,3,4,5]
  list(map(lambda num: num\*3, seq))
  The output here would be the list [3, 6, 9, 12, 15]
+
+## Day 7
+Spent 10 minutes reviewing methods
