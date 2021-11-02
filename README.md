@@ -75,3 +75,7 @@ def my_func(name='Default Name'):
 
 ## Day 7
 Spent 10 minutes reviewing methods
+
+## Day 8
+Today I completed the first set of exercises for the course. I made a few syntax errors, but mainly I got through them easily. 
+One question I am leaving for the next day is to figure out how 'pass' can be used in the final problem, which asked me to build a function that utilizes a lot of if/elif/else statements.
