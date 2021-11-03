@@ -79,3 +79,8 @@ Spent 10 minutes reviewing methods
 ## Day 8
 Today I completed the first set of exercises for the course. I made a few syntax errors, but mainly I got through them easily. 
 One question I am leaving for the next day is to figure out how 'pass' can be used in the final problem, which asked me to build a function that utilizes a lot of if/elif/else statements.
+
+## Day 9
+I spent an hour today going over the Python crash course answers, then jumped straight into Numpy.
+Big takeaway from the answers on Python exercises: I still love to make too many variables and shift to a new variable each time I do a method or change data in some way. I imagine that is a natural part of programming is you become more efficient so the functions that take me six lines now will eventually only take one or two lines.
+Numpy: so many cool ways to make data similar to what I learned in college linear algebra. The most fun I had learning all day (and I'm in my first week of a new job right now). I jumped straight into the exercises so I could practice the basic syntax right away with the types of random, the types of arrays you can make, and made lots of silly beginner errors along the way. Super fun hour overall.
