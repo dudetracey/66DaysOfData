@@ -84,3 +84,7 @@ One question I am leaving for the next day is to figure out how 'pass' can be us
 I spent an hour today going over the Python crash course answers, then jumped straight into Numpy.
 Big takeaway from the answers on Python exercises: I still love to make too many variables and shift to a new variable each time I do a method or change data in some way. I imagine that is a natural part of programming is you become more efficient so the functions that take me six lines now will eventually only take one or two lines.
 Numpy: so many cool ways to make data similar to what I learned in college linear algebra. The most fun I had learning all day (and I'm in my first week of a new job right now). I jumped straight into the exercises so I could practice the basic syntax right away with the types of random, the types of arrays you can make, and made lots of silly beginner errors along the way. Super fun hour overall.
+
+## Day 10
+Not much time spent, less than 20 min on Numpy array indexing. Will probably need to rewatch some of the notes in order to put them into practice.
+Key takeaway: updating one version of an array will update the original array. Need to use the copy method to make a separate array that won't be updated when you update one version of an array.
