@@ -88,3 +88,6 @@ Numpy: so many cool ways to make data similar to what I learned in college linea
 ## Day 10
 Not much time spent, less than 20 min on Numpy array indexing. Will probably need to rewatch some of the notes in order to put them into practice.
 Key takeaway: updating one version of an array will update the original array. Need to use the copy method to make a separate array that won't be updated when you update one version of an array.
+
+## Day 11
+Super short time today, learned the two ways to pull a single entry from a matrix with either [][] or [,]. Remember that we always start counting index positions from zero!
