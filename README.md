@@ -91,3 +91,6 @@ Key takeaway: updating one version of an array will update the original array. N
 
 ## Day 11
 Super short time today, learned the two ways to pull a single entry from a matrix with either [][] or [,]. Remember that we always start counting index positions from zero!
+
+## Day 12
+Another short study day. I learned about boolean arrays as a means of creating an array with certain values. I'm very curious to see why and how this is used in a future day of studying.
