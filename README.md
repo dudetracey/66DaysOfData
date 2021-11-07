@@ -94,3 +94,6 @@ Super short time today, learned the two ways to pull a single entry from a matri
 
 ## Day 12
 Another short study day. I learned about boolean arrays as a means of creating an array with certain values. I'm very curious to see why and how this is used in a future day of studying.
+
+## Day 13
+Another short day. Started numpy operations.
