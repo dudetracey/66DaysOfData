@@ -97,3 +97,6 @@ Another short study day. I learned about boolean arrays as a means of creating a
 
 ## Day 13
 Another short day. Started numpy operations.
+
+## Day 14
+I was very surprised today while studying numpy operations to see the trig functions mentioned. I then built an array to spend some time playing around to figure out if they were in degrees or radians. (They're in radians). Then I had to mess around with trying to call up pi in the Jupyter notebook, but didn't succeed. I'm going to let it be for now.
