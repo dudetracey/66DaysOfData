@@ -100,3 +100,6 @@ Another short day. Started numpy operations.
 
 ## Day 14
 I was very surprised today while studying numpy operations to see the trig functions mentioned. I then built an array to spend some time playing around to figure out if they were in degrees or radians. (They're in radians). Then I had to mess around with trying to call up pi in the Jupyter notebook, but didn't succeed. I'm going to let it be for now.
+
+## Day 15
+Today I worked through the second half of the Numpy exercises (I did the first half on Day 9). The most surprising problem was one that used the axis. I guess the axis = 0 or 1 depending on rows/columns. So you can add all the columns of a matrix (called mat) with mat.sum(axis=0). I'll be starting with Pandas tomorrow.
