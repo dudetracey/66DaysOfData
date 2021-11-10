@@ -103,3 +103,6 @@ I was very surprised today while studying numpy operations to see the trig funct
 
 ## Day 15
 Today I worked through the second half of the Numpy exercises (I did the first half on Day 9). The most surprising problem was one that used the axis. I guess the axis = 0 or 1 depending on rows/columns. So you can add all the columns of a matrix (called mat) with mat.sum(axis=0). I'll be starting with Pandas tomorrow.
+
+## Day 16
+Installed pandas and followed along with a lecture on Series. Interesting that they look like x,y pairs (and work very well with dictionaries that also look like them) but are in the opposite order for data and index inside the function compared to what is listed when you print it out.
