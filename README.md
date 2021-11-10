@@ -106,3 +106,6 @@ Today I worked through the second half of the Numpy exercises (I did the first h
 
 ## Day 16
 Installed pandas and followed along with a lecture on Series. Interesting that they look like x,y pairs (and work very well with dictionaries that also look like them) but are in the opposite order for data and index inside the function compared to what is listed when you print it out.
+
+## Day 17
+Big jump into Data Frames! I am enjoying the deeper and deeper dives into working with data in what looks like a matrix (but is actually a combination of series to make a data frame). The instructor did a great job of showing how to write the same filtered information either in one line of code or multiple lines of code, which is something I notice is happening when I compare my code to answer keys in exercises. That was super helpful.
