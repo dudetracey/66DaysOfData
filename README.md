@@ -109,3 +109,6 @@ Installed pandas and followed along with a lecture on Series. Interesting that t
 
 ## Day 17
 Big jump into Data Frames! I am enjoying the deeper and deeper dives into working with data in what looks like a matrix (but is actually a combination of series to make a data frame). The instructor did a great job of showing how to write the same filtered information either in one line of code or multiple lines of code, which is something I notice is happening when I compare my code to answer keys in exercises. That was super helpful.
+
+## Day 18
+Spent an hour doing more in depth functions with Pandas. There is a lot of new info being thrown at me, some of it looking familiar to things I've done with math or excel, but most is brand new. I'm hoping to really dive into some practice problems in the next few days so I can check how well I'm picking up all this new info.
