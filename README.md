@@ -112,3 +112,6 @@ Big jump into Data Frames! I am enjoying the deeper and deeper dives into workin
 
 ## Day 18
 Spent an hour doing more in depth functions with Pandas. There is a lot of new info being thrown at me, some of it looking familiar to things I've done with math or excel, but most is brand new. I'm hoping to really dive into some practice problems in the next few days so I can check how well I'm picking up all this new info.
+
+## Day 19
+Short intro to operations in pandas today.
