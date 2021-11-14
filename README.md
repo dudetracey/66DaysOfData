@@ -115,3 +115,6 @@ Spent an hour doing more in depth functions with Pandas. There is a lot of new i
 
 ## Day 19
 Short intro to operations in pandas today.
+
+## Day 20
+Continued my study of pandas operations.
