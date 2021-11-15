@@ -118,3 +118,6 @@ Short intro to operations in pandas today.
 
 ## Day 20
 Continued my study of pandas operations.
+
+## Day 21
+Walked through an entry level overview of Pandas Data Input and Output. I was kind of blown away at how easy it is to export a data table into an excel file that I can actually open on my computer. Excited to see where I can take all these data ideas next as the next few days will all be working on various exercises.
