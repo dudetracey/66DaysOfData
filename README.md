@@ -124,3 +124,6 @@ Walked through an entry level overview of Pandas Data Input and Output. I was ki
 
 ## Day 22
 Working through some pandas exercises. Finally starting to put the pieces together.
+
+## Day 23
+Continuing Pandas exercises
