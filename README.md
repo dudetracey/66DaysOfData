@@ -127,3 +127,6 @@ Working through some pandas exercises. Finally starting to put the pieces togeth
 
 ## Day 23
 Continuing Pandas exercises
+
+## Day 24
+Currently, I am completely stuck on Pandas problems. I'll be looking at solutions tomorrow since I don't see hints anywhere to try to get unstuck on my own.
