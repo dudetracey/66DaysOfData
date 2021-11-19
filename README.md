@@ -130,3 +130,6 @@ Continuing Pandas exercises
 
 ## Day 24
 Currently, I am completely stuck on Pandas problems. I'll be looking at solutions tomorrow since I don't see hints anywhere to try to get unstuck on my own.
+
+## Day 25
+Reviewing answers to Pandas exercises I've completed
