@@ -133,3 +133,6 @@ Currently, I am completely stuck on Pandas problems. I'll be looking at solution
 
 ## Day 25
 Reviewing answers to Pandas exercises I've completed
+
+## Day 26
+Really frustrated looking through solutions to the next few pandas problems. No idea how I'm supposed to put together this many syntax things on my own. Going to dedicate some more time to reviewing this ASAP.
