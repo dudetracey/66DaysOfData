@@ -136,3 +136,6 @@ Reviewing answers to Pandas exercises I've completed
 
 ## Day 26
 Really frustrated looking through solutions to the next few pandas problems. No idea how I'm supposed to put together this many syntax things on my own. Going to dedicate some more time to reviewing this ASAP.
+
+## Day 27
+Finished the first round of exercises and solutions and trying to apply what I've gained to the next set of exercises.
