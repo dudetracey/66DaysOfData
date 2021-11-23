@@ -139,3 +139,6 @@ Really frustrated looking through solutions to the next few pandas problems. No 
 
 ## Day 27
 Finished the first round of exercises and solutions and trying to apply what I've gained to the next set of exercises.
+
+## Day 28
+Got through most of the exercsises in the second section of the Pandas exercises. Felt way better about them the second time around as I was using similar examples from the first set to compare the main syntax. Excited to wrap them up tomorrow!
