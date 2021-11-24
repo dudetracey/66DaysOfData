@@ -145,3 +145,6 @@ Got through most of the exercsises in the second section of the Pandas exercises
 
 ## Day 29
 Super excited to say that I solved a tough problem that I totally got stuck on yesterday. I also solved it in a slightly different way than what was shown in the answer key! Hooray!
+
+## Day 30
+Reviewed solutions to the most recent set of exercises including alternate answers to how I wrote the code.
