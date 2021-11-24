@@ -142,3 +142,6 @@ Finished the first round of exercises and solutions and trying to apply what I'v
 
 ## Day 28
 Got through most of the exercsises in the second section of the Pandas exercises. Felt way better about them the second time around as I was using similar examples from the first set to compare the main syntax. Excited to wrap them up tomorrow!
+
+## Day 29
+Super excited to say that I solved a tough problem that I totally got stuck on yesterday. I also solved it in a slightly different way than what was shown in the answer key! Hooray!
