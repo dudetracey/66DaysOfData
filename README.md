@@ -148,3 +148,6 @@ Super excited to say that I solved a tough problem that I totally got stuck on y
 
 ## Day 30
 Reviewed solutions to the most recent set of exercises including alternate answers to how I wrote the code.
+
+## Day 31
+Finished the pandas section. Moving on to MatPlotLib tomorrow!
