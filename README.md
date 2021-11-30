@@ -151,3 +151,6 @@ Reviewed solutions to the most recent set of exercises including alternate answe
 
 ## Day 31
 Finished the pandas section. Moving on to MatPlotLib tomorrow!
+
+## Day 32
+First day with Matplotlib, got to see plots built both with functions and OO. OO was way better.
