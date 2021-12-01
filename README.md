@@ -154,3 +154,6 @@ Finished the pandas section. Moving on to MatPlotLib tomorrow!
 
 ## Day 32
 First day with Matplotlib, got to see plots built both with functions and OO. OO was way better.
+
+## Day 33
+Woohoo half way through! Continued matplotlib today
