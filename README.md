@@ -157,3 +157,6 @@ First day with Matplotlib, got to see plots built both with functions and OO. OO
 
 ## Day 33
 Woohoo half way through! Continued matplotlib today
+
+## Day 34
+Continued matplotlib, working through file size and dpi details.
