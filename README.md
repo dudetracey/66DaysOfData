@@ -160,3 +160,6 @@ Woohoo half way through! Continued matplotlib today
 
 ## Day 34
 Continued matplotlib, working through file size and dpi details.
+
+## Day 35
+More matplotlib
