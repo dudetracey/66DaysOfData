@@ -163,3 +163,6 @@ Continued matplotlib, working through file size and dpi details.
 
 ## Day 35
 More matplotlib
+
+## Day 36
+How to change color and style of graphs in matplotlib, hopefully starting exercises tomorrow!
