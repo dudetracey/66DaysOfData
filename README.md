@@ -170,3 +170,5 @@ How to change color and style of graphs in matplotlib, hopefully starting exerci
 ## Day 37
 Finished matplotlib notes, was unable to start the excercises. Will start on Day 38.
 
+## Day 38
+Finished half of the matplotlib exercises!
