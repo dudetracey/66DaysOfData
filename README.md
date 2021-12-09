@@ -172,3 +172,6 @@ Finished matplotlib notes, was unable to start the excercises. Will start on Day
 
 ## Day 38
 Finished half of the matplotlib exercises!
+
+## Day 39
+Essentially finished the matplotlib exercises, had a very strange issue in one at the end that I'll need to try to understand tomorrow.
