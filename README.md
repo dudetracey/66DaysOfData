@@ -175,3 +175,6 @@ Finished half of the matplotlib exercises!
 
 ## Day 39
 Essentially finished the matplotlib exercises, had a very strange issue in one at the end that I'll need to try to understand tomorrow.
+
+## Day 40
+Completed the review of matplotlib solutions, found the error I made yesterday.
