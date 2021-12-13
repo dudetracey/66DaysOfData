@@ -178,3 +178,6 @@ Essentially finished the matplotlib exercises, had a very strange issue in one a
 
 ## Day 40
 Completed the review of matplotlib solutions, found the error I made yesterday.
+
+## Day 41
+Began my study of Seaborn!
