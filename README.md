@@ -181,3 +181,6 @@ Completed the review of matplotlib solutions, found the error I made yesterday.
 
 ## Day 41
 Began my study of Seaborn!
+
+## Day 42
+Made some new plots in Seaborn
