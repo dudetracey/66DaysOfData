@@ -184,3 +184,6 @@ Began my study of Seaborn!
 
 ## Day 42
 Made some new plots in Seaborn
+
+## Day 43
+Completed the distribution plots lesson in Seaborn, learned about kernel density estimation!
