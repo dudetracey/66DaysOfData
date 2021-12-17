@@ -190,3 +190,6 @@ Completed the distribution plots lesson in Seaborn, learned about kernel density
 
 ## Day 44
 I'm now 2/3 of the way through this daily practice! Today I was studying categorical plots in Seaborn, got to make a box and whisker plot with a data set dividing tips from a restaurant up by day and by whether the customer was a smoker or not.
+
+## Day 45
+Completed the categorical plots lecture for seaborn, made some new types of graphs I'd never seen before!
