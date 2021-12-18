@@ -193,3 +193,6 @@ I'm now 2/3 of the way through this daily practice! Today I was studying categor
 
 ## Day 45
 Completed the categorical plots lecture for seaborn, made some new types of graphs I'd never seen before!
+
+## Day 46
+A quick study of matrix plots, they were super cool. 
