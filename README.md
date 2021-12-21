@@ -196,3 +196,6 @@ Completed the categorical plots lecture for seaborn, made some new types of grap
 
 ## Day 46
 A quick study of matrix plots, they were super cool. 
+
+## Day 47
+I looked at grids in Seaborn, kind of a weird combination of things I have learned in Seaborn so far.
