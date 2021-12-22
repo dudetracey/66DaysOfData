@@ -199,3 +199,6 @@ A quick study of matrix plots, they were super cool.
 
 ## Day 47
 I looked at grids in Seaborn, kind of a weird combination of things I have learned in Seaborn so far.
+
+## Day 48
+I found out how to make linear regression lines in Seaborn and adjust the size and style. I will start doing some independent exercises tomorrow!
