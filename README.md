@@ -202,3 +202,6 @@ I looked at grids in Seaborn, kind of a weird combination of things I have learn
 
 ## Day 48
 I found out how to make linear regression lines in Seaborn and adjust the size and style. I will start doing some independent exercises tomorrow!
+
+## Day 49
+I made quite a few sample graphs in Seaborn using the famous Titanic dataset. I'm looking forward to comparing my graphs to a more sophisticated set of solutions tomorrow!
