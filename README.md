@@ -208,3 +208,6 @@ I made quite a few sample graphs in Seaborn using the famous Titanic dataset. I'
 
 ## Day 50
 Today I reviewed solutions to several Seaborn graphing exercises. I made a few errors in setting up a FacetGrid, but the rest were very precise! 
+
+## Day 51
+Data visualization in Pandas - it is simple, but not as customizable as Seaborn.
