@@ -211,3 +211,6 @@ Today I reviewed solutions to several Seaborn graphing exercises. I made a few e
 
 ## Day 51
 Data visualization in Pandas - it is simple, but not as customizable as Seaborn.
+
+## Day 52
+Tried exercises for data visualization in Pandas. The basic formatting is easy, but every customization is a matter of looking up examples and googling. I feel like a real programmer right now.
