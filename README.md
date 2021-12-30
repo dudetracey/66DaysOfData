@@ -214,3 +214,6 @@ Data visualization in Pandas - it is simple, but not as customizable as Seaborn.
 
 ## Day 52
 Tried exercises for data visualization in Pandas. The basic formatting is easy, but every customization is a matter of looking up examples and googling. I feel like a real programmer right now.
+
+## Day 53
+I fixed a few errors in the exercises and went over their solutions. I have one problem left and then will move on!
