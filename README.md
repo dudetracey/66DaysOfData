@@ -220,3 +220,6 @@ I fixed a few errors in the exercises and went over their solutions. I have one 
 
 ## Day 54
 Today was a day of doing some problem solving with Google and Stack Overflow. I had a viable solution to my main problem of the day, so that's a win!
+
+## Day 55:
+Plotly and Cufflinks crash course! Super fun to look at the different types of interactive plots!
