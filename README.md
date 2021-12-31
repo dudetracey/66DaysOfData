@@ -217,3 +217,6 @@ Tried exercises for data visualization in Pandas. The basic formatting is easy, 
 
 ## Day 53
 I fixed a few errors in the exercises and went over their solutions. I have one problem left and then will move on!
+
+## Day 54
+Today was a day of doing some problem solving with Google and Stack Overflow. I had a viable solution to my main problem of the day, so that's a win!
