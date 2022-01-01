@@ -223,3 +223,6 @@ Today was a day of doing some problem solving with Google and Stack Overflow. I 
 
 ## Day 55:
 Plotly and Cufflinks crash course! Super fun to look at the different types of interactive plots!
+
+## Day 56
+My first day of geographical plotting with Choropleth maps. Pretty intense details to put together, but really cool results to see the whole graph populated.
