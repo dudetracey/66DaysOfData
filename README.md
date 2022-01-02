@@ -226,3 +226,6 @@ Plotly and Cufflinks crash course! Super fun to look at the different types of i
 
 ## Day 56
 My first day of geographical plotting with Choropleth maps. Pretty intense details to put together, but really cool results to see the whole graph populated.
+
+## Day 57
+Ran through another example of a chorpleth map from plotly. I'll be trying some exercises on my own tomorrow.
