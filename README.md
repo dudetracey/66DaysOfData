@@ -2,8 +2,8 @@
 Documenting my journey on 66 days of data
 
 
-Haha, first off, it looks like my initial write up of what I'm working on disappeared. 🤦
-I'll have to fix that in the next couple of days or find out where it went.
+## Day 1:
+Put my plans together for the class that I'm taking. I'll be taking the class "Python for Data Science and Machine Learning Bootcamp" on Udemy.
 
 ## Day 2:
 Today I set up the Jupiter Notebooks and Anaconda. Feels like there are a million different programs that exist within the computer world just for working with computers and that is kind of overwhelming. I'll make more progress on Day 3.
@@ -229,3 +229,6 @@ My first day of geographical plotting with Choropleth maps. Pretty intense detai
 
 ## Day 57
 Ran through another example of a chorpleth map from plotly. I'll be trying some exercises on my own tomorrow.
+
+## Day 58
+I built some plots on my own today with choropleths. Feels really rewarding to see the data fill out the maps!
