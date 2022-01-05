@@ -232,3 +232,6 @@ Ran through another example of a chorpleth map from plotly. I'll be trying some 
 
 ## Day 58
 I built some plots on my own today with choropleths. Feels really rewarding to see the data fill out the maps!
+
+## Day 59
+I reviewed the exercise solutions today. The big takeaway was that using a color scale with "reversescale = True" often makes it easier to visually interpret the graphs (and they look prettier, too).
