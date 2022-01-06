@@ -235,3 +235,6 @@ I built some plots on my own today with choropleths. Feels really rewarding to s
 
 ## Day 59
 I reviewed the exercise solutions today. The big takeaway was that using a color scale with "reversescale = True" often makes it easier to visually interpret the graphs (and they look prettier, too).
+
+## Day 60
+First day of trying to put all the pieces together to answer basic questions for a set of 911 call data from Kaggle.
