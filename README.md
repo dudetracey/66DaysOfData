@@ -238,3 +238,6 @@ I reviewed the exercise solutions today. The big takeaway was that using a color
 
 ## Day 60
 First day of trying to put all the pieces together to answer basic questions for a set of 911 call data from Kaggle.
+
+## Day 61
+I spent my programming time today trying and failing to add a column to a data frame that split out parts of the data in a preexisting column. I look up a solution to it tomorrow.
