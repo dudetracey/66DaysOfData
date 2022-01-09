@@ -241,3 +241,6 @@ First day of trying to put all the pieces together to answer basic questions for
 
 ## Day 61
 I spent my programming time today trying and failing to add a column to a data frame that split out parts of the data in a preexisting column. I look up a solution to it tomorrow.
+
+## Day 62
+Found out I was incredibly close on how to add the next columns to the data frame. Continued the data project of 911 calls.
