@@ -244,3 +244,6 @@ I spent my programming time today trying and failing to add a column to a data f
 
 ## Day 62
 Found out I was incredibly close on how to add the next columns to the data frame. Continued the data project of 911 calls.
+
+## Day 63
+Continued working with 911 call data. I created additional columns in my data frame with time and date data and created a few graphs based on those values as the x axis. Will continue to work with hourly data tomorrow.
