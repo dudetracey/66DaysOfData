@@ -247,3 +247,6 @@ Found out I was incredibly close on how to add the next columns to the data fram
 
 ## Day 63
 Continued working with 911 call data. I created additional columns in my data frame with time and date data and created a few graphs based on those values as the x axis. Will continue to work with hourly data tomorrow.
+
+## Day 64
+I continue to wrestle with making many different graphs using the 911 call data. Manipulating the dataframe by grouping a new index and using that to create different types of plots was very difficult to do, but it felt very relieving to succeed.
