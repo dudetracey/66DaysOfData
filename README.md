@@ -250,3 +250,7 @@ Continued working with 911 call data. I created additional columns in my data fr
 
 ## Day 64
 I continue to wrestle with making many different graphs using the 911 call data. Manipulating the dataframe by grouping a new index and using that to create different types of plots was very difficult to do, but it felt very relieving to succeed.
+
+## Day 65
+Today I continued to make several different types of plots using date columns for the x axis. The last step of the data capstone project task that I'm on is to make some heatmaps, so I will be wrapping that up along with my 66 day journey!
+
