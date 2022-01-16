@@ -254,3 +254,5 @@ I continue to wrestle with making many different graphs using the 911 call data.
 ## Day 65
 Today I continued to make several different types of plots using date columns for the x axis. The last step of the data capstone project task that I'm on is to make some heatmaps, so I will be wrapping that up along with my 66 day journey!
 
+## Day 66
+Today was the final day of working through 911 call data. It was a tough finish for this project since I am working in taxes now and am finishing this up during tax season. I think I've learned a lot about ways to create graphs with real data, but I want to come back and finish this course when tax season ends. This journey was incredibly valuable to me to really kickstart learning in this field. For now, I need a little break. Have a great day!
